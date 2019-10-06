@@ -1,0 +1,25 @@
+{
+  "name": "js-fundamentals-functional-v2",
+  "version": "1.0.0",
+  "description": "Code For The Functional Javascript Course on Frontend Master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunkakkar/functional-javascript-frontendmasters.git"
+  },
+  "keywords": [
+    "js",
+    "functional",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Varun Kakkar",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/varunkakkar/functional-javascript-frontendmasters/issues"
+  },
+  "homepage": "https://github.com/varunkakkar/functional-javascript-frontendmasters#readme"
+}
